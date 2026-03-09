@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://example.com/sitemap.xml
+Sitemap: https://geanto888.github.io/mundo888.github.io/sitemap.xml
